@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_item_add"
+        android:title="Sort"
+        app:showAsAction="always"
+
+        android:icon="@drawable/ic_sort">
+        <menu>
+            <group
+                android:id="@+id/group"
+                android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_distance"
+                    android:title="Rating" />
+                <item
+                    android:id="@+id/nav_rating"
+                    android:checked="true"
+                    android:title="Distance" />
+            </group>
+        </menu>
+    </item>
+</menu>

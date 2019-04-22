@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Aas Paas</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_about_us">aboutUs</string>
+
+
+    <string name="about_us1">Aas-Paas is a platform which provides you basic necessities/information at your location by just one click on your mobile phone. This app mainly provides you the information of your nearby locality within the range of 5 Kms, which includes ATM’s, Hospitals, Schools, Temples etc. means which is in the closest approach to you as the name of app represents.</string>
+    <string name="about_us2">\u0009\u0009\u0009\u0009\u0009We strive to achieve the “Customer Satisfaction” by including the new features as per the requirement of the customers. Our ideology behind this is “QUALITY AND VALUE OVER QUANTITY” which we decide to serve on this single platform.</string>
+    <string name="contact_us1">\Aas-Paas application is Developed by Zero2unicorn Labs Pvt. Ltd. in order to serve the customers. We respect our customers in order to fulfil their needs. In Case of any query related to our services, we do have our Customer Care support to rectify the issues. You can also visit our Help/Support section for your queries.</string>
+    <string name="contact_us2">\u0009\u0009\u0009\u0009\u0009Hopefully, You will get answers to your queries and feel free to contact us and we promise to solve your issue.</string>
+
+
+</resources>
